@@ -163,7 +163,7 @@
     font-weight: bold;
     border: 2px solid greenyellow;
     color: greenyellow;
-    border-radius: 20px;
+    border-radius: 8px;
     background: transparent;
     transition: all 1000ms;
   }
